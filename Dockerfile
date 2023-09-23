@@ -1,8 +1,8 @@
 FROM python:3.10
 
-WORKDIR /AutoFilterBot-Beta1
+WORKDIR /AutoFilterBot-Betaak
 
-COPY . /AutoFilterBot-Beta1
+COPY . /AutoFilterBot-Betaak
 
 RUN pip install -r requirements.txt
 
